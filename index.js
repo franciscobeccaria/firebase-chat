@@ -94,6 +94,7 @@ const sendMessage = () => {
 // Resumen de funciones:
 //      load & draw Messages
 //      sendMessage
+//      signout
 //      login
 //      show & close UserModal
 //      Listener if user is logued or not
